@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "mersenne": "~0.0.3",
-    "statsd-parser": "~0.0.4"
+    "statsd-parser": "git+ssh://git@github.com/0ctave/statsd-parser.git"
   },
   "licenses": [
     {
